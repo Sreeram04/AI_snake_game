@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sample for lablimg</folder>
+	<filename>WIN_20220225_11_18_52_Pro.jpg</filename>
+	<path>C:\Users\sreer\OneDrive\Pictures\Sample for lablimg\WIN_20220225_11_18_52_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>527</xmin>
+			<ymin>253</ymin>
+			<xmax>926</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>
